@@ -1,0 +1,36 @@
+[21-Apr-2022 16:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/404.php on line 10
+[22-Apr-2022 19:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/404.php on line 10
+[27-Sep-2022 01:14:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/index.php on line 15
+[27-Nov-2022 05:57:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/index.php on line 15
+[13-Mar-2023 10:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_nav_menu() in /home/evenheat/public_html/wp-content/themes/evenheat/footer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/footer.php on line 20
+[13-Mar-2023 10:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/search.php on line 10
+[13-Mar-2023 10:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/404.php on line 10
+[13-Mar-2023 10:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/index.php on line 15
+[13-Mar-2023 10:01:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/evenheat/public_html/wp-content/themes/evenheat/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/evenheat/public_html/wp-content/themes/evenheat/archive.php on line 10
